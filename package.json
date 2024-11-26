@@ -8,7 +8,7 @@
     "flag-icon-css": "^3.0.0",
     "font-awesome": "^4.7.0",
     "fullcalendar": "^3.9.0",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "jquery-ujs": "^1.2.2",
     "popper.js": "^1.14.1",
     "prop-types": "^15.6.1",
