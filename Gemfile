@@ -6,7 +6,7 @@ source 'https://rubygems.org'
 gem 'rails', '5.2.3'
 gem 'rails-i18n', '~> 5.1'
 gem 'i18n-country-translations'
-gem 'webpacker', '~> 3.4'
+gem 'webpacker', '~> 5.4'
 # Use postgresql as the database for Active Record
 gem 'pg'
 # Use SCSS for stylesheets
