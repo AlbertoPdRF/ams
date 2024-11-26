@@ -32,7 +32,7 @@ gem 'jbuilder'
 gem 'sdoc'
 
 # Static pages
-gem 'high_voltage', '~> 3.0.0'
+gem 'high_voltage', '~> 3.1.2'
 
 # mails
 gem 'sendgrid-ruby'

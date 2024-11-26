@@ -115,7 +115,7 @@ GEM
       multi_json (~> 1.11)
       os (>= 0.9, < 2.0)
       signet (~> 0.7)
-    high_voltage (3.0.0)
+    high_voltage (3.1.2)
     http-cookie (1.0.3)
       domain_name (~> 0.5)
     httpclient (2.8.3)
@@ -303,7 +303,7 @@ DEPENDENCIES
   coffee-rails
   dotenv-rails
   google-api-client
-  high_voltage (~> 3.0.0)
+  high_voltage (~> 3.1.2)
   i18n-country-translations
   icalendar
   image_processing
